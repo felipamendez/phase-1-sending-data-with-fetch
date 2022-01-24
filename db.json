@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,611 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Steve",
+      "email": "steve1",
+      "id": 1
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 2
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 3
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 4
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 5
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 6
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 7
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 8
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 9
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 10
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 11
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 12
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 13
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 14
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 15
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 16
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 17
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 18
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 19
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 20
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 21
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 22
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 23
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 24
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 25
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 26
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 27
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 28
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 29
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 30
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 31
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 32
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 33
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 34
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 35
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 36
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 38
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 40
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 41
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 42
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 43
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 44
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 45
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 46
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 47
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 48
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 49
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 50
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 51
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 52
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 53
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 54
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 55
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 56
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 57
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 58
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 59
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 60
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 61
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 62
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 63
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 64
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 65
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 66
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 67
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 68
+    },
+    {
+      "name": "hi",
+      "email": "hi1",
+      "id": 69
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 70
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 71
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 72
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 73
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 74
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 75
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 76
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 77
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 78
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 79
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 80
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 81
+    },
+    {
+      "id": 82
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 83
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 84
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 85
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 86
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 87
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 88
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 89
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 90
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 91
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 92
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 93
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 94
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 95
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 96
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 97
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 98
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 99
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 100
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 101
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 102
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 103
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 104
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 105
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 106
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 107
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 108
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 109
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 110
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 111
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 112
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 113
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 114
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 115
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 116
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 117
+    },
+    {
+      "name": "Jim",
+      "email": "jim@jim.com",
+      "id": 118
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 119
+    },
+    {
+      "name": "Sam",
+      "email": "sam@sam.com",
+      "id": 120
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
